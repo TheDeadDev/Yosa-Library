@@ -1,0 +1,10 @@
+githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+Library.CreateLib("Yosa Hub • Pls Donate (discord.gg/seZwjXY3cB)", "OceanTheme")
+local Tab = Window:NewTab("Pls Donate")
+Section:NewLabel("Click on any Pls Donate Script You want to run, if you run multiple scripts it's could crash you or lagging your device.")
+Section:NewButton("ButtonText", "ButtonInfo", function()
+    print("Clicked")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/CF-Trail/tzechco-PlsDonateAutofarmBackup/main/old.lua
+end)
+Section:NewLabel("New scripts soon!")
+local Tab = Window:NewTab("Local Player")
